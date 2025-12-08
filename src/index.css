@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
-
 @import "tailwindcss";
 
+:root {
+    --main-bg-gradient: linear-gradient(180.00deg, rgba(116, 33, 176, 1),rgba(207.74, 142.38, 255, 1) 100%);
+}
 
+* {
+    font-family: "Rubik", sans-serif;
+}
+
+.container {
+    max-width: 1490px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+@theme {
+    --breakpoint-nav-xxl: 1075px;
+    --breakpoint-nav-xl: 768px;
+    
+
+
+
+    
+    --background-image-main-gradient: linear-gradient(180.00deg, rgba(116, 33, 176, 1), rgba(207.74, 142.38, 255, 1) 100%);
+}
