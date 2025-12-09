@@ -1,0 +1,12 @@
+<svg viewBox="0 0 2325.41 1355.26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2325.405518" height="1355.263306" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_0" x1="-3.9572848e-13" x2="2275.80957" y1="565" y2="565" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(255,89.25,247.714)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(173.592,113.688,255)" offset="0.197916672" stop-opacity="1" />
+			<stop stop-color="rgb(144,233,237)" offset="0.40625" stop-opacity="1" />
+			<stop stop-color="rgb(92,209,103)" offset="0.619791687" stop-opacity="1" />
+			<stop stop-color="rgb(255,237.614,0)" offset="0.825320721" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<path id="DecorativeLine" d="M0 565C120.33 356 227.612 181.5 351.566 167.5C475.52 153.5 526.261 284 611.797 284C697.332 284 738.65 224 766.195 167.5C793.741 111 848.831 -2.84217e-14 952.489 0C1056.15 2.84217e-14 1106.89 118 1132.98 167.5C1159.08 217 1228.67 320 1325.8 320C1422.93 320 1451.93 262.206 1543.99 269.5C1636.05 276.794 1668.67 365.5 1764.35 365.5C1860.04 365.5 1816.44 298.259 1931.8 297.5C2047.16 296.741 2062.75 378.162 2133.93 441.928C2205.1 505.694 2275.81 431.866 2275.81 431.866" stroke="url(#paint_linear_0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="matrix(-0.93147,0.363819,-0.363819,-0.93147,2325.41,527.281)" />
+</svg>

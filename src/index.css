@@ -9,7 +9,13 @@
     font-family: "Rubik", sans-serif;
 }
 
-.container {
+body {
+    margin: 0 auto;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.container-section {
     max-width: 1490px;
     margin: 0 auto;
     padding: 0 15px;
@@ -18,6 +24,11 @@
 @theme {
     --breakpoint-nav-xxl: 1075px;
     --breakpoint-nav-xl: 768px;
+
+    --breakpoint-hero-xxl: 1600px;
+    --breakpoint-hero-xl: 1200px;
+    --breakpoint-hero-md: 760px;
+    --breakpoint-hero-sm: 465px;
     
 
 

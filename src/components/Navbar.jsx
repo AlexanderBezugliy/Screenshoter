@@ -10,7 +10,7 @@ const Navbar = () => {
     
 
     return (
-        <nav className='container'>
+        <nav className='container-section'>
             <div className='font-medium flex nav-xl:flex-col nav-xxl:flex-row justify-between items-center gap-7 nav-xxl:gap-0 my-4 nav-xl:my-[50px]'>
                 {/* logo */}
                 <div>
