@@ -3,7 +3,7 @@ import Button from './ui/Button'
 
 const Hero = () => {
     return (
-        <div className='relative w-full mt-15 hero-xl:mt-40  overflow-x-clip'>
+        <div className='relative w-full mt-15 hero-xl:mt-40 mb-65   overflow-x-clip'>
             <div className='grid gap-5 hero-md:gap-25 hero-xl:gap-0 hero-xl:grid-cols-2 owerflow-hidden'>
                 {/* left side */}
                 <div className='relative mx-auto hero-md:ml-60'>

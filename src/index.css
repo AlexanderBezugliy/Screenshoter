@@ -17,7 +17,6 @@ body {
 
 .container-section {
     max-width: 1490px;
-    margin: 0 auto;
     padding: 0 15px;
 }
 
@@ -33,6 +32,7 @@ body {
 
 
 
-    
     --background-image-main-gradient: linear-gradient(180.00deg, rgba(116, 33, 176, 1), rgba(207.74, 142.38, 255, 1) 100%);
+    --background-image-sectione-gradient: linear-gradient(90deg, rgba(255, 89.25, 247.71, 0.04),rgba(173.59, 113.69, 255, 0.04) 20%,rgba(144, 233, 237, 0.04) 41%,rgba(92, 209, 103, 0.04) 62%,rgba(255, 237.61, 0, 0.04) 83%);
+
 }
