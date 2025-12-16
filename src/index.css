@@ -28,7 +28,11 @@ body {
     --breakpoint-hero-xl: 1200px;
     --breakpoint-hero-md: 760px;
     --breakpoint-hero-sm: 465px;
-    
+
+    --breakpoint-heroDesr-xxl: 1505px;
+    --breakpoint-heroDesr-xl: 1020px;
+    --breakpoint-heroDesr-md: 769px;
+    --breakpoint-heroDesr-sm: 695px;
 
 
 

@@ -13,7 +13,8 @@ export const cardsHero = [
     {
         id: 1,
         img: "/img/hero/icons/icons1.png", 
-        text: "Снимок и запись экрана в 1 клик"
+        text: "Снимок и запись \n экрана в 1 клик"
+
     },
     {
         id: 2,
